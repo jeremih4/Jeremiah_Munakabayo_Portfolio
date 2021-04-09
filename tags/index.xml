@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Home</title>
+    <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/</link>
+    <description>Recent content in Tags on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>feature selection</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/feature-selection/</link>
+      <pubDate>Sun, 20 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/feature-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/machine-learning/</link>
+      <pubDate>Sun, 20 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/python/</link>
+      <pubDate>Sun, 20 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ArcGIS</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/arcgis/</link>
+      <pubDate>Sun, 20 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/arcgis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fastest Route</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/fastest-route/</link>
+      <pubDate>Sun, 20 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/fastest-route/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear regression</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/linear-regression/</link>
+      <pubDate>Wed, 02 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/linear-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/tensorflow/</link>
+      <pubDate>Wed, 02 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Market and Enrolment Analysis of Equity Students in Victoria</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/capstone_2020/</link>
+      <pubDate>Sun, 20 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/capstone_2020/</guid>
+      <description>As an intern at the University of Melbourne, used my data science skills to help realize the university&amp;rsquo;s objectives in student access and equity, and improved diversity in the student cohort. They wished to engage and win students of various backgrounds, including, but not limited to, Low Social-Economic student, First Nation students, and Disavantaged Background students.
+I was part of a 3-person diverse team, and we examined the VTAC Masterfile dataset that comprised of more than 360 attributes.</description>
+    </item>
+    
+    <item>
+      <title>Eco Spatial Solutions</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/fastest_route/</link>
+      <pubDate>Sun, 20 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/fastest_route/</guid>
+      <description>Eco Spatial Solutions is a project to meet the objectives of the Plan Melbourne 2017-2050 project, which is a long-term plan devised to facilitate sustainable development in Melbourne’s growing future.
+This project provides a solution to the Direction 6.7 of the Plan, i.e. to;
+ Improve the economic recovery of waste and reduce reliance on landfill Improve waste and resource recovery systems to meet the logistical challenges of medium and higher density developments Protect waste management and resource recovery facilities from urban encroachment and assess opportunities for new waste facilities  motivation</description>
+    </item>
+    
+    <item>
+      <title>Multi-armed Bandits</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/muti-armed_bandits/</link>
+      <pubDate>Tue, 15 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/muti-armed_bandits/</guid>
+      <description>In this project, I implemented several MAB learners. These leaners include epsilon-Greedy, UCB, and LinUCB (which is adopted from Section 3.1 of the WWW’2010 paper)
+The Dataset used is a 2MB .txt file with 1000 lines corresponding to distinct site visits by users.
+link to code
+Multi-armed bandits (MABs) are a powerful tool in statistical machine learning: they bridge decision making, control, optimisation and learning; they address practical problems of sequential decision making while backed by elegant theoretical guarantees; and more subtly they are neither fully supervised nor unsupervised, being partial labelled by indirect rewards.</description>
+    </item>
+    
+    <item>
+      <title>Building Linear Regression Models</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/linear_regression/</link>
+      <pubDate>Wed, 02 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/linear_regression/</guid>
+      <description>I built multiple linear regression models. Collected two datasets from from here and here respectively. First task: predict salary from number of years of experience. Second task: predict miles per gallon in the Auto MPG dataset using tensorflow.    Tools used
+ Python sklearn tensorflow keras  link to code</description>
+    </item>
+    
+  </channel>
+</rss>

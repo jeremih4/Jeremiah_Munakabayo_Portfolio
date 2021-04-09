@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ArcGIS on Home</title>
+    <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/arcgis/</link>
+    <description>Recent content in ArcGIS on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jan 2019 11:25:05 -0400</lastBuildDate><atom:link href="https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/arcgis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eco Spatial Solutions</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/fastest_route/</link>
+      <pubDate>Sun, 20 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/fastest_route/</guid>
+      <description>Eco Spatial Solutions is a project to meet the objectives of the Plan Melbourne 2017-2050 project, which is a long-term plan devised to facilitate sustainable development in Melbourne’s growing future.
+This project provides a solution to the Direction 6.7 of the Plan, i.e. to;
+ Improve the economic recovery of waste and reduce reliance on landfill Improve waste and resource recovery systems to meet the logistical challenges of medium and higher density developments Protect waste management and resource recovery facilities from urban encroachment and assess opportunities for new waste facilities  motivation</description>
+    </item>
+    
+  </channel>
+</rss>

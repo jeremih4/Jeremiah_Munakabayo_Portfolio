@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine learning on Home</title>
+    <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine learning on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Market and Enrolment Analysis of Equity Students in Victoria</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/capstone_2020/</link>
+      <pubDate>Sun, 20 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/capstone_2020/</guid>
+      <description>As an intern at the University of Melbourne, used my data science skills to help realize the university&amp;rsquo;s objectives in student access and equity, and improved diversity in the student cohort. They wished to engage and win students of various backgrounds, including, but not limited to, Low Social-Economic student, First Nation students, and Disavantaged Background students.
+I was part of a 3-person diverse team, and we examined the VTAC Masterfile dataset that comprised of more than 360 attributes.</description>
+    </item>
+    
+    <item>
+      <title>Building Linear Regression Models</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/linear_regression/</link>
+      <pubDate>Wed, 02 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/linear_regression/</guid>
+      <description>I built multiple linear regression models. Collected two datasets from from here and here respectively. First task: predict salary from number of years of experience. Second task: predict miles per gallon in the Auto MPG dataset using tensorflow.    Tools used
+ Python sklearn tensorflow keras  link to code</description>
+    </item>
+    
+  </channel>
+</rss>
