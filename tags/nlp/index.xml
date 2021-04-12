@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Home</title>
+    <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/nlp/</link>
+    <description>Recent content in NLP on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2019 11:25:05 -0400</lastBuildDate><atom:link href="https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatic Fact verification</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/automatic_fact_verification/</link>
+      <pubDate>Mon, 15 Apr 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/automatic_fact_verification/</guid>
+      <description>The objective of the project was to create a model capable of verifying whether a claim is true, false, or unknown; where unknown means that the model could not verify the claim given the evidence.
+Evidence of claims was provided in a large 3GB wikipedia corpus containing a wiki pages.
+The project is comprised to two parts.
+ Information retrieval  Created a pagerank model where given a claim, it returns the top n pages related to the query/claim.</description>
+    </item>
+    
+  </channel>
+</rss>

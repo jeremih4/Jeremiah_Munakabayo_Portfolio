@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Neural Language Translation model</title>
+      <title>Language Translation</title>
       <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/translation/</link>
       <pubDate>Mon, 15 Feb 2021 11:25:05 -0400</pubDate>
       
@@ -28,9 +28,33 @@ I was part of a 3-person diverse team, and we examined the VTAC Masterfile datas
     </item>
     
     <item>
-      <title>Sentiment in Melbourne - An Overview</title>
-      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/sentiment_nectar/</link>
+      <title>Multi-armed Bandits</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/muti-armed_bandits/</link>
       <pubDate>Fri, 15 Nov 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/muti-armed_bandits/</guid>
+      <description>In this project, I implemented several MAB learners. These leaners include epsilon-Greedy, UCB, and LinUCB (which is adopted from Section 3.1 of the WWW’2010 paper)
+The Dataset used is a 2MB .txt file with 1000 lines corresponding to distinct site visits by users.
+link to code
+Multi-armed bandits (MABs) are a powerful tool in statistical machine learning: they bridge decision making, control, optimisation and learning; they address practical problems of sequential decision making while backed by elegant theoretical guarantees; and more subtly they are neither fully supervised nor unsupervised, being partial labelled by indirect rewards.</description>
+    </item>
+    
+    <item>
+      <title>Automatic Fact verification</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/automatic_fact_verification/</link>
+      <pubDate>Mon, 15 Apr 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/automatic_fact_verification/</guid>
+      <description>The objective of the project was to create a model capable of verifying whether a claim is true, false, or unknown; where unknown means that the model could not verify the claim given the evidence.
+Evidence of claims was provided in a large 3GB wikipedia corpus containing a wiki pages.
+The project is comprised to two parts.
+ Information retrieval  Created a pagerank model where given a claim, it returns the top n pages related to the query/claim.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment in Melbourne</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/sentiment_nectar/</link>
+      <pubDate>Mon, 15 Apr 2019 11:25:05 -0400</pubDate>
       
       <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/sentiment_nectar/</guid>
       <description>The objective of the project was to perform a city wide sentiment analysis and understand the shifts caused by weather, sporting events, and even the police among other phenomena within the city.
@@ -48,18 +72,6 @@ Different aspects of the project included;
       <description>Eco Spatial Solutions is a project to meet the objectives of the Plan Melbourne 2017-2050 project, which is a long-term plan devised to facilitate sustainable development in Melbourne’s growing future.
 This project provides a solution to the Direction 6.7 of the Plan, i.e. to;
  Improve the economic recovery of waste and reduce reliance on landfill Improve waste and resource recovery systems to meet the logistical challenges of medium and higher density developments Protect waste management and resource recovery facilities from urban encroachment and assess opportunities for new waste facilities  motivation</description>
-    </item>
-    
-    <item>
-      <title>Multi-armed Bandits</title>
-      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/muti-armed_bandits/</link>
-      <pubDate>Tue, 15 Jan 2019 11:25:05 -0400</pubDate>
-      
-      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/muti-armed_bandits/</guid>
-      <description>In this project, I implemented several MAB learners. These leaners include epsilon-Greedy, UCB, and LinUCB (which is adopted from Section 3.1 of the WWW’2010 paper)
-The Dataset used is a 2MB .txt file with 1000 lines corresponding to distinct site visits by users.
-link to code
-Multi-armed bandits (MABs) are a powerful tool in statistical machine learning: they bridge decision making, control, optimisation and learning; they address practical problems of sequential decision making while backed by elegant theoretical guarantees; and more subtly they are neither fully supervised nor unsupervised, being partial labelled by indirect rewards.</description>
     </item>
     
     <item>
