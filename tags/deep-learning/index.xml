@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning on Home</title>
+    <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/deep-learning/</link>
+    <description>Recent content in deep learning on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Feb 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neural Language Translation model</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/translation/</link>
+      <pubDate>Mon, 15 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/translation/</guid>
+      <description>The objective of this challenge is to create a machine translation system capable of converting text from French into Fongbe or Ewe. Fongbe is the major Gbe language of Benin (with approximately 4.1 million speakers), while Ewe is spoken in Togo and southeastern Ghana by approximately 4.5 million people as a first language and by a million others as a second language.
+This challenge is part of an initiative that wishes to bring down the barriers between African local language speakers and modern society; non-French/English speakers are often unable to access critical facilities like education, banking, and healthcare.</description>
+    </item>
+    
+  </channel>
+</rss>

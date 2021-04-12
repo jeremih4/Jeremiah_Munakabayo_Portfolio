@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Home</title>
+    <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/blog/</link>
+    <description>Recent content in Blog on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science Books</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/blog/books_for_datascience/</link>
+      <pubDate>Thu, 01 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/blog/books_for_datascience/</guid>
+      <description>This post points to some resources to learn data science, it highly emphasises machine learning applications, and statistics &amp;amp; probability.
+Here are some free and/or paid resources to learn data science.
+Mathematics for Data Science
+   Field Book     Statistics: An Introduction to Statistical Learning   Statistics(Advanced): Elements of Statistical Learning   Statistics and Probability: Python for Probability, Statistics, and Machine Learning   Linear Algebra, Calculus, and Mathematics: Foundations of Mathematics for Computer Science: A Visual Approach    Statistical Machine Learning/Deep Learning</description>
+    </item>
+    
+  </channel>
+</rss>

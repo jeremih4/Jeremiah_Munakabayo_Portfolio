@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aurin on Home</title>
+    <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/aurin/</link>
+    <description>Recent content in aurin on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Nov 2019 11:25:05 -0400</lastBuildDate><atom:link href="https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/tags/aurin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentiment in Melbourne - An Overview</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/sentiment_nectar/</link>
+      <pubDate>Fri, 15 Nov 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/sentiment_nectar/</guid>
+      <description>The objective of the project was to perform a city wide sentiment analysis and understand the shifts caused by weather, sporting events, and even the police among other phenomena within the city.
+This project was a 5-person project. It was completed on australian cloud platform NeCTAR.
+Different aspects of the project included;
+ web scrapping (tweet harvesting) tweet sentiment tag automation couchbase and hadoop UI development  My resposibilities were to streamline the automotion process using Boto, and ansible, in order to create and deploy cloud instances on demand, and install all necessary software.</description>
+    </item>
+    
+  </channel>
+</rss>
