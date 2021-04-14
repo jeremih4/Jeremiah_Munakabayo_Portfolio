@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Car Price Prediction</title>
+      <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/car_price_prediction/</link>
+      <pubDate>Tue, 13 Apr 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/car_price_prediction/</guid>
+      <description>Using the car prices dataset that can be found here containing 26 features such as car name, number of doors, and engine size, and 204 instances of those features, I predict the car price.
+The first few feature distributions looks like this;
+  The distribution of the car prices looks like a log-normal distribution, as can be see below;
+  I perfomed some exploratory data anylsis to get a feel of the data and its features, for example a good feature to predict price is engine size.</description>
+    </item>
+    
+    <item>
       <title>Language Translation</title>
       <link>https://Jeremih4.github.io/Jeremiah_Munakabayo_Portfolio/post/translation/</link>
       <pubDate>Mon, 15 Feb 2021 11:25:05 -0400</pubDate>
